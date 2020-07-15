@@ -14,7 +14,7 @@
 ### 👀 A little bit about me...
 
 * Currently a Software Developer at [@Shopify](https://www.shopify.com/)
-* Computer Engineering alumnus from [@YorkU](http://yorku.ca/)
+* Computer Engineering alumnus from [@YorkU](https://www.yorku.ca/)
 * Previously worked at [@IBM](https://www.ibm.com/)
 
 ### ✨ Hobbies
