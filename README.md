@@ -41,8 +41,12 @@ I really like watching movies! Here are some of my favorites:
 #### 📸 Photography
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/32605754/87556594-d7662600-c684-11ea-9c49-cd122617ba2c.jpg" width="300"></img> &nbsp;
-  <img src="https://user-images.githubusercontent.com/32605754/87556590-d634f900-c684-11ea-8258-9eb515a03f61.jpg" width="300"></img>
+  <img src="https://user-images.githubusercontent.com/32605754/183433001-50f73b77-d928-4451-aa1c-d7a9191ce022.JPG" width="300"></img> &nbsp;
+  <img src="https://user-images.githubusercontent.com/32605754/183433075-3cd132e8-178d-4c77-a54d-6a0a54d6a1c4.JPG" width="300"></img>
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/32605754/183435038-ef85c90f-387d-41fe-91ff-55e6da1eb0aa.JPG" width="300"></img> &nbsp;
+  <img src="https://user-images.githubusercontent.com/32605754/183433274-cd608940-a8b7-4544-a646-5aa139f00a16.JPG" width="300"></img>
 </p>
 
 #### ❓ Other
