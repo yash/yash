@@ -13,7 +13,7 @@
 
 ### 👀 A little bit about me...
 
-* Currently a Software Developer at [@Shopify](https://www.shopify.com/)
+* Currently a Senior Software Developer at [@Shopify](https://www.shopify.com/)
 * Computer Engineering alumnus from [@YorkU](https://www.yorku.ca/)
 * Previously worked at [@IBM](https://www.ibm.com/)
 
