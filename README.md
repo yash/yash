@@ -6,7 +6,7 @@
 </h1>
 
 <p align="center">
-  LinkedIn: <a href="https://www.linkedin.com/in/itsyash/">itsyash</a> &middot;
+  LinkedIn: <a href="https://www.linkedin.com/in/redis/">redis</a> &middot;
   Website: <a href="https://yash.io/">yash.io</a> &middot;
   Email: <a href="mailto:hello@yash.io">hello@yash.io</a>
 </p>
