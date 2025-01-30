@@ -2,7 +2,7 @@
 <h1 align="center">
   <img src="https://user-images.githubusercontent.com/32605754/87495507-938d0580-c61f-11ea-997c-8a3da7998c45.png" width="200"></img> <!-- Avatar -->
   <br>
-  Hi there! 👋 I'm Yash.
+  👋 Hi, I'm Yash!
 </h1>
 
 <p align="center">
