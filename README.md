@@ -38,12 +38,10 @@ I really like watching movies! Here are some of my favorites:
 #### 📸 Photography
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/32605754/183433001-50f73b77-d928-4451-aa1c-d7a9191ce022.JPG" width="300"></img> &nbsp;
-  <img src="https://user-images.githubusercontent.com/32605754/183433075-3cd132e8-178d-4c77-a54d-6a0a54d6a1c4.JPG" width="300"></img>
-</p>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/32605754/183435038-ef85c90f-387d-41fe-91ff-55e6da1eb0aa.JPG" width="300"></img> &nbsp;
-  <img src="https://user-images.githubusercontent.com/32605754/183433274-cd608940-a8b7-4544-a646-5aa139f00a16.JPG" width="300"></img>
+  <img src="https://github.com/user-attachments/assets/45b14c8f-4028-4997-9c7b-946ef5b535d7" width="200"></img>
+  <img src="https://github.com/user-attachments/assets/397207df-15d4-404e-9ff9-cf1eabec4fa2" width="200"></img>
+  <img src="https://github.com/user-attachments/assets/85591106-581e-49ee-bade-3c38d8e138c5" width="200"></img>
+  <img src="https://github.com/user-attachments/assets/fec9719b-6981-4702-9d8c-273bd12be7ef" width="200"></img>
 </p>
 
 #### ❓ Other
