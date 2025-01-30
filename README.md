@@ -24,19 +24,16 @@
 I really like watching movies! Here are some of my favorites:
 
 <p align="center">
-  <a href="https://letterboxd.com/film/pather-panchali/">
-    <img src="https://user-images.githubusercontent.com/32605754/87497144-f7fd9400-c622-11ea-8bcb-cec944ec50e8.png" width="200"></img>
-  </a> &nbsp;
-  <a href="https://letterboxd.com/film/grave-of-the-fireflies/">
-    <img src="https://user-images.githubusercontent.com/32605754/87497171-0d72be00-c623-11ea-96b1-dd7ab51a3998.png" width="200"></img>
-  </a> &nbsp;
-  <a href="https://letterboxd.com/film/the-400-blows/">
-    <img src="https://user-images.githubusercontent.com/32605754/87497186-1794bc80-c623-11ea-8f35-11de1884c7a5.png" width="200"></img>
-  </a> &nbsp;
-  <a href="https://letterboxd.com/film/still-walking/">
-    <img src="https://user-images.githubusercontent.com/32605754/87497223-27ac9c00-c623-11ea-8709-ed71fc92bd2c.png" width="200"></img>
-  </a>
+  <img src="https://user-images.githubusercontent.com/32605754/87497144-f7fd9400-c622-11ea-8bcb-cec944ec50e8.png" width="200"></img>
+  <img src="https://user-images.githubusercontent.com/32605754/87497171-0d72be00-c623-11ea-96b1-dd7ab51a3998.png" width="200"></img>
+  <img src="https://user-images.githubusercontent.com/32605754/87497186-1794bc80-c623-11ea-8f35-11de1884c7a5.png" width="200"></img>
+  <img src="https://user-images.githubusercontent.com/32605754/87497223-27ac9c00-c623-11ea-8709-ed71fc92bd2c.png" width="200"></img>
 </p>
+
+- [Pather Panchali](https://letterboxd.com/film/pather-panchali/). Directed by Satyajit Ray. 1955.
+- [Grave of the Fireflies](https://letterboxd.com/film/grave-of-the-fireflies/). Directed by Isao Takahata. 1988.
+- [The 400 Blows](https://letterboxd.com/film/the-400-blows/). Directed by François Truffaut. 1959.
+- [Still Walking](https://letterboxd.com/film/still-walking/). Directed by Hirokazu Kore-eda. 2008.
 
 #### 📸 Photography
 
